@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Remind&amp;Log</string>
+    <string name="popup_title">This is a reminder !</string>
+    <string name="message">Pour enregistrer ce dernier appel appuyez sur le bouton plus au dessous.</string>
+    <string name="form_title">Formulaire de prospection clients</string>
+    <string name="identity">Bienvenue</string>
+    <string name="pref_file">com.example.preference_file</string>
+    <string name="pref_login_status">com.example.preference_login_status</string>
+    <string name="pref_user_name">com.example.preference_user_name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
